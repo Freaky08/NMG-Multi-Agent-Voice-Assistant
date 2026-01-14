@@ -1,0 +1,22 @@
+{
+  "SUV": [
+    { "model": "Creta", "features": ["Petrol", "Connected Tech"] },
+    { "model": "XUV700", "features": ["ADAS", "Diesel"] },
+    { "model": "Seltos", "features": ["Turbo Petrol", "Ventilated Seats"] },
+    { "model": "Harrier", "features": ["Diesel", "Panoramic Sunroof"] },
+    { "model": "Taigun", "features": ["Petrol", "5-Star Safety"] }
+  ],
+
+  "Honda": [
+    { "model": "City", "features": ["Hybrid", "ADAS"] },
+    { "model": "Amaze", "features": ["Petrol", "Compact Sedan"] },
+    { "model": "WR-V", "features": ["Petrol", "Crossover Design"] }
+  ],
+
+  "Sedan": [
+    { "model": "Verna", "features": ["Turbo Petrol", "Ventilated Seats"] },
+    { "model": "Slavia", "features": ["Petrol", "5-Star Safety"] },
+    { "model": "Virtus", "features": ["GT Performance", "Sporty Design"] },
+    { "model": "Ciaz", "features": ["Mild Hybrid", "Comfort Focus"] }
+  ]
+}

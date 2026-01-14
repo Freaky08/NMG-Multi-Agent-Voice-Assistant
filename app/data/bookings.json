@@ -1,0 +1,14 @@
+[
+  {
+    "booking_id": "50eb8c68-9434-4a29-be91-4b8527ca3700",
+    "model": "XUV900",
+    "date": "tomorrow",
+    "time": "9 p.m."
+  },
+  {
+    "booking_id": "86703cb8-42cc-4edc-8f65-2a2da2c6e5ef",
+    "model": "XUV900",
+    "date": "tomorrow",
+    "time": "9 p.m."
+  }
+]

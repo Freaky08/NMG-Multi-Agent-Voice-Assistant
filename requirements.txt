@@ -1,0 +1,14 @@
+streamlit
+langchain
+langgraph
+openai
+whisper
+sounddevice
+scipy
+python-dotenv
+langchain_openai
+transformers
+torch
+sounddevice
+numpy
+gtts

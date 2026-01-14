@@ -1,0 +1,4 @@
+Extract intent and details from the user message.
+
+Return ONLY valid JSON with keys:
+intent, car_type, model, date, time
