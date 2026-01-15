@@ -31,22 +31,22 @@ Agents involved:
 git clone https://github.com/<your-username>/Auto-Dealership-Voice-Assistant.git
 cd Auto-Dealership-Voice-Assistant
 
-###2. Create virtual environment
+### 2. Create virtual environment
 
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 
-###3. Install dependencies
+### 3. Install dependencies
 
 
 pip install -r requirements.txt
 
-###4. Set environment variables
+### 4. Set environment variables
 
 Create a .env file:
 OPENAI_API_KEY=your_api_key_here
 
-###5. Run the app
+### 5. Run the app
 
 streamlit run streamlit_app.py
 
