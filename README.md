@@ -53,8 +53,11 @@ streamlit run streamlit_app.py
 ## 📁 Data
 
 cars.json – car models & features
+
 bookings.json – stores test drive bookings
 
 ## 📌 Notes
+
 Audio autoplay requires user interaction (browser restriction)
+
 .env file is ignored for security
